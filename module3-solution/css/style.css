@@ -1,0 +1,70 @@
+body{
+    background-color: #FAEBD7;
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Kreon', serif;
+    font-family: 'Dancing Script', cursive;
+}
+#header-nav{
+    background-color: #FFB6C1;
+    border: 0;
+    border-radius: 0;
+}
+
+.navbar-brand h1{
+    color: #fff;
+    font-size: 1.6em;
+    text-shadow: 1px 1px 1px #222;
+}
+
+.navbar-brand a:hover,.navbar-brand a:focus{
+    width: 100%;
+    text-decoration: none;
+}
+
+#nav-list{
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #222;
+
+}
+.nav-item{
+    background-color: #FAEBD7;
+}
+.nav-item a{
+    text-decoration: none;
+    font-size: 1.2em;
+    color: white;
+    text-shadow: 1px 1px 1px #DC143C;
+}
+
+#nav-list a:hover,#nav-list a:focus{
+    color: #FFB6C1;
+}
+#nav-list{
+    border:none;
+}
+.navbar-toggler-icon,button.navbar-toggler{
+    border: none;
+}
+
+#menu-head{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-shadow: 1px 1px 1px #DC143C;
+}
+#content-row h3{
+    background: #48D1CC;
+    color: white;
+    margin-top: 10px;
+}
+#content-row section div{
+    background: #FFFFF0;
+}
+
+#content-row section div p{
+    color: #000;
+    padding-right: 3%;
+    padding-left: 3%;
+}
